@@ -2,7 +2,7 @@
 This is my public facing repository for Sailor Strike. Here, I'll add information, important links, etc.
 
 ## Project Board
-**https://github.com/ETdoFresh/SailorStrike/projects/1**  
+**https://github.com/ETdoFresh/SailorStrike/projects/2**  
 Here is the live progress of scheduled tasks towards this project. This is the calendar which Sailor Strike lives by and dies by. :)
 
 ## Social Media Updates
