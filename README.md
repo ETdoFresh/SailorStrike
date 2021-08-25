@@ -1,3 +1,5 @@
+![Social Image](https://repository-images.githubusercontent.com/320898687/9659ec5e-47a0-42c6-970a-a097213c7723)
+
 # Sailor Strike
 This is my public facing repository for Sailor Strike. Here, I'll add information, important links, etc.
 
